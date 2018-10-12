@@ -9,4 +9,4 @@ This is a very simple implementation of AlexNet on Cifar10. Get all things done 
   - For keras model: 
   > python Cifar10_AlexNet_Keras.py.py 
   - For tensorflow model: 
-  > Cifar10_AlexNet_TensorFLow.py.py
+  > python Cifar10_AlexNet_TensorFLow.py.py
